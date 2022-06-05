@@ -3,7 +3,7 @@
 This is a weather update app that gives you the current weather condition in any area that you find yourself.
 It is also able to get your device location and tell you the current weather update of your location.
 
-[Software Demo Video]()
+[Software Demo Video](https://www.loom.com/share/ef211cd8f3e6417db3f009450f1138d9)
 
 # Web Pages
 
